@@ -1,0 +1,22 @@
+h2. Description
+
+PlxHumans is a plugin for PluXml CMS, it allows PluXml to easily create and manage their _humans.txt_ on PluXml sites.
+
+Enabling the plugin on your site will add the following line within the head tag of your pages : 
+@<link type="text/plain" rel="author" href="http://www.sheevaboite.fr/humans.txt" />@
+
+For more information on what _humans.txt_ is, please see "HumansTxt":http://humanstxt.org/
+
+h2. Installation
+
+All you have to do is to unzip the archive in your _PLUXML_INSTALLATION_FOLDER/plugins_.
+Then log into your administration and enable the plugin. Type you text and hit 'Enregistrer'.
+
+If you want to disable the plugin, it will delete the file on the server but it will keep the content if you want to enable it later, you'll find what was in the _humans.txt_ file.
+
+h2. Todo
+
+* Adding help
+* Localisation
+* Force UTF-8 writing
+* Refactoring ?
