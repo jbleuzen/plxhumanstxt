@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<parameter name="enabled" type="string">1</parameter>
+	<parameter name="content" type="string">/* TEAM */
+	Chef : Johan Bleuzen
+	Twitter : @jbleuzen
+	From : Montgeron, Ile de France, France
+
+
+/* THANKS */
+	CMS : PluXml
+	Framework : MidoriJS
+			
+
+/* SITE */
+	Last update : 2011/05/18
+	Language : Français
+	Doctype : HTML5
+	IDE : Espresso</parameter>
+</document>
