@@ -2,19 +2,20 @@
 <document>
 	<parameter name="enabled" type="string">1</parameter>
 	<parameter name="content" type="string">/* TEAM */
-	Chef : Johan Bleuzen
-	Twitter : @jbleuzen
-	From : Montgeron, Ile de France, France
+	Chef : Your Name
+	Twitter : @your_twitter
+	From : Your, Location, Country
 
 
 /* THANKS */
-	CMS : PluXml
-	Framework : MidoriJS
+	People you want to thanks
 			
 
 /* SITE */
 	Last update : 2011/05/18
 	Language : Français
 	Doctype : HTML5
-	IDE : Espresso</parameter>
+	CMS : PluXml
+	Framework : Other tools you use
+	IDE : Notepad</parameter>
 </document>
